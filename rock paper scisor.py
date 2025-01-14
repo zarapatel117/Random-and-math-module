@@ -1,6 +1,6 @@
 import random
 print("lets play rock, paper, scisor")
-start=input("rock,paper,scissor")
+start=input("rock,paper,scissor: ")
 user_input=["rock","paper","scissor"]
 computor_choice=(random.choice(user_input))
 
